@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummulwaraghante" alt="ummulwaraghante" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Services,Terafform,Devops,SQL**
+- 🌱 I’m currently learning **AWS Cloud Services,Terraform,Devops,SQL**
 
-- 💬 Ask me about **AWS Cloud Services(EC2,VPC,S3,CloudFormation,CloudWatch,Elasic Beanstalk,Lambda,AWS IAM**
+- 💬 Ask me about **AWS Cloud Services(EC2,VPC,S3,CloudFormation,CloudWatch,Elasic Beanstalk,Lambda,AWS IAM)**
 
 - 📫 How to reach me **ummu7841@gmail.com**
 
