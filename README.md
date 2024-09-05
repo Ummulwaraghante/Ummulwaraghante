@@ -1,5 +1,5 @@
 ![MasterHead](https://courseplay.co/wp-content/uploads/2020/09/aws-migration-1200x675-1.jpg)
-<h1 align="center">Hi 👋, I'm Ummulwara Ghante</h1>
+<h1 align="center">Hi 👋, I'm Ummulwara Shaikh</h1>
 <h3 align="center">AWS-Cloud Enthusiast with a Passion of Strong Desire to Learn and Grow</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:679/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif">
 
